@@ -1,0 +1,53 @@
+.wrapper{
+    background-color:#666666 ;
+    color: white;
+    width: 100%;
+    max-width: 980px;
+    font-size: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+}
+.blogmenu,.phone,.logo,.menu,.slideshow,.textcontent,.sidebar,.footer{
+background-color: #aaaaaa;
+margin: 3px;
+}
+.blogmenu{
+    height: 60px;
+    width: 980px;
+}
+.logo{
+    height: 100px;
+    width: 200px;
+}
+.phonemenubox {
+display: flex;
+flex-wrap: wrap;
+}
+.phone{
+    height: 40px;
+    width: 200px;
+}
+.menu{
+    height: 40px;
+    width: 300px;
+}
+.slideshow{
+    height: 300px;
+    
+}
+.textcontent{
+    height: 300px;
+    
+}
+.sidebar{
+    height: 600px;
+    width: 200px;
+   
+}
+.footer{
+    height: 300px;
+    width: 980px;
+}

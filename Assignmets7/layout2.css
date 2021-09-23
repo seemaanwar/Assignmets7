@@ -1,0 +1,92 @@
+.container{
+    background-color: #666666;
+    width: 100%;
+    max-width: 980px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: white;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.logo{
+height: 75px;
+width: 120px;
+background-color: #aaaaaa;
+margin: 3px;
+}
+.phoneno{
+    height: 50px;
+    width: 150px;
+    background-color: #aaaaaa;
+    margin: 3px;
+    
+    
+}
+.menu{
+    height:70px;
+    width: 980px; 
+    margin: 3px;
+    background-color: #aaaaaa;
+}
+
+.imageslideshow{
+    height:250px;
+    width: 980px;
+    margin: 3px;
+    background-color: #aaaaaa;
+
+    
+}
+.feat1{
+    height: 100px;
+    width: 229px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #aaaaaa;
+}
+.feat2{
+    height: 100px;
+    width:230px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #aaaaaa;
+}
+.feat3{
+    height: 100px;
+    width: 230px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #aaaaaa;
+}
+.feat4{
+    height: 100px;
+    width: 230px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #aaaaaa;
+}
+.sidebar{
+    height:350px;
+    width: 310px;
+    margin: 3px;
+    padding: 5px;
+    align-content: center;
+    background-color: #aaaaaa;
+}
+.textcontent{
+    margin: 3px;
+    height:350px;
+    width: 635px; 
+    padding: 5px;
+    background-color: #aaaaaa;
+}
+.footer{
+    margin: 3px;
+    height:50px;
+    width: 980px;
+    background-color: #aaaaaa;
+}
